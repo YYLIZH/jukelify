@@ -162,3 +162,4 @@ cython_debug/
 # This project
 .vscode/
 .vercel
+spotify.cache

@@ -82,6 +82,7 @@ class SpotifyClient:
                 client_id=SPOTIFY_CLIENT_ID,
                 client_secret=SPOTIFY_CLIENT_SECRET,
                 scope=self.scope,
+                cache_path="spotify.cache",
             )
         )
 

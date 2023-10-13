@@ -16,10 +16,10 @@ from jukelify.spotify import spotify_api
 from jukelify.utils import LINE_CHANNEL_ACCESS_TOKEN, LINE_CHANNEL_SECRET
 
 configuration = Configuration(access_token=LINE_CHANNEL_ACCESS_TOKEN)
-handler = WebhookHandler(LINE_CHANNEL_SECRET)
+line_handler = WebhookHandler(LINE_CHANNEL_SECRET)
 
 
-@handler.add(MessageEvent, message=TextMessageContent)
+@line_handler.add(MessageEvent, message=TextMessageContent)
 def handling_message(event: MessageEvent):
     with ApiClient(configuration) as api_client:
         if isinstance(event.message.text, str) and event.message.text.startswith(
@@ -49,7 +49,7 @@ def handling_message(event: MessageEvent):
                 )
 
 
-@handler.add(PostbackEvent)
+@line_handler.add(PostbackEvent)
 def handle_postback(event: PostbackEvent):
     with ApiClient(configuration) as api_client:
         line_bot_api = MessagingApi(api_client)
