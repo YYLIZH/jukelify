@@ -1,0 +1,6 @@
+fastapi[all]
+line-bot-sdk
+spotipy
+gunicorn
+requests
+python-dotenv

@@ -1,0 +1,342 @@
+{
+    "artists": {
+        "href": "https: //api.spotify.com/v1/search?query=%E4%BC%8D%E4%BD%B0&type=artist&offset=0&limit=10",
+        "items": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5H8TJITZE1sPjVR2ACzXNS"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 489423
+                },
+                "genres": [
+                    "mandopop",
+                    "taiwan singer-songwriter"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5H8TJITZE1sPjVR2ACzXNS",
+                "id": "5H8TJITZE1sPjVR2ACzXNS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb3c0869956dd3913fd83db126",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051743c0869956dd3913fd83db126",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1783c0869956dd3913fd83db126",
+                        "width": 160
+                    }
+                ],
+                "name": "Wu Bai",
+                "popularity": 53,
+                "type": "artist",
+                "uri": "spotify:artist:5H8TJITZE1sPjVR2ACzXNS"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 183872
+                },
+                "genres": [
+                    "c-pop",
+                    "mandopop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6zCAdMK7SVxKyGMnAc26Cy",
+                "id": "6zCAdMK7SVxKyGMnAc26Cy",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb08c307ad5cb912c0667e59e",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b08c307ad5cb912c0667e59e",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b08c307ad5cb912c0667e59e",
+                        "width": 160
+                    }
+                ],
+                "name": "Power Station",
+                "popularity": 48,
+                "type": "artist",
+                "uri": "spotify:artist:6zCAdMK7SVxKyGMnAc26Cy"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1YpQyOeevMTnoxQir5rS7U"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 17
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/1YpQyOeevMTnoxQir5rS7U",
+                "id": "1YpQyOeevMTnoxQir5rS7U",
+                "images": [],
+                "name": "伍佰&CHINA",
+                "popularity": 0,
+                "type": "artist",
+                "uri": "spotify:artist:1YpQyOeevMTnoxQir5rS7U"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6tCAduMqJ7RnjewM7VVle0"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1067
+                },
+                "genres": [
+                    "chinese manyao"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6tCAduMqJ7RnjewM7VVle0",
+                "id": "6tCAduMqJ7RnjewM7VVle0",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b239e893b0f36205c52d6d21",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b239e893b0f36205c52d6d21",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b239e893b0f36205c52d6d21",
+                        "width": 64
+                    }
+                ],
+                "name": "雨中百合",
+                "popularity": 24,
+                "type": "artist",
+                "uri": "spotify:artist:6tCAduMqJ7RnjewM7VVle0"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4JGHOtt9Kj0EKZFjF8cmeL"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 10353
+                },
+                "genres": [
+                    "taiwan pop",
+                    "taiwanese indie",
+                    "taiwanese pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4JGHOtt9Kj0EKZFjF8cmeL",
+                "id": "4JGHOtt9Kj0EKZFjF8cmeL",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebd1409d01931074226aa04e03",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174d1409d01931074226aa04e03",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178d1409d01931074226aa04e03",
+                        "width": 160
+                    }
+                ],
+                "name": "百合花 Lilium",
+                "popularity": 17,
+                "type": "artist",
+                "uri": "spotify:artist:4JGHOtt9Kj0EKZFjF8cmeL"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7xywz1UywWdW98s6N05KE3"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 69
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/7xywz1UywWdW98s6N05KE3",
+                "id": "7xywz1UywWdW98s6N05KE3",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273088d9b5331c38dcdfda57273",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0284bdd6e0a25f8b8bcdf1be24",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485184bdd6e0a25f8b8bcdf1be24",
+                        "width": 64
+                    }
+                ],
+                "name": "林奕碩 Lin I-Shuo(百合花Lilium)",
+                "popularity": 7,
+                "type": "artist",
+                "uri": "spotify:artist:7xywz1UywWdW98s6N05KE3"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0czBunSo5ui8sT4zfX3zgK"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2991
+                },
+                "genres": [
+                    "classic mandopop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0czBunSo5ui8sT4zfX3zgK",
+                "id": "0czBunSo5ui8sT4zfX3zgK",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732fd37fdf9a6d1137dbf73d8d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e022fd37fdf9a6d1137dbf73d8d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048512fd37fdf9a6d1137dbf73d8d",
+                        "width": 64
+                    }
+                ],
+                "name": "百合二重唱",
+                "popularity": 12,
+                "type": "artist",
+                "uri": "spotify:artist:0czBunSo5ui8sT4zfX3zgK"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2POny7uYqqOPhOrLFox1bt"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 745
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/2POny7uYqqOPhOrLFox1bt",
+                "id": "2POny7uYqqOPhOrLFox1bt",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fc7cc463f8a2bf6647eddce4",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fc7cc463f8a2bf6647eddce4",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fc7cc463f8a2bf6647eddce4",
+                        "width": 64
+                    }
+                ],
+                "name": "雨中百合",
+                "popularity": 29,
+                "type": "artist",
+                "uri": "spotify:artist:2POny7uYqqOPhOrLFox1bt"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5nEXLz5Qwkcv8d91fP4Cjo"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 23516
+                },
+                "genres": [
+                    "yaoi"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5nEXLz5Qwkcv8d91fP4Cjo",
+                "id": "5nEXLz5Qwkcv8d91fP4Cjo",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27302bfaa792514cbcddc60fa6b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0202bfaa792514cbcddc60fa6b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485102bfaa792514cbcddc60fa6b",
+                        "width": 64
+                    }
+                ],
+                "name": "百合絢斗",
+                "popularity": 41,
+                "type": "artist",
+                "uri": "spotify:artist:5nEXLz5Qwkcv8d91fP4Cjo"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7M2MyeXb7Q2puCB5wlhide"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 46
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/7M2MyeXb7Q2puCB5wlhide",
+                "id": "7M2MyeXb7Q2puCB5wlhide",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27305c5a04b8310efe4bfa03e1c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0205c5a04b8310efe4bfa03e1c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485105c5a04b8310efe4bfa03e1c",
+                        "width": 64
+                    }
+                ],
+                "name": "宋百合",
+                "popularity": 30,
+                "type": "artist",
+                "uri": "spotify:artist:7M2MyeXb7Q2puCB5wlhide"
+            }
+        ],
+        "limit": 10,
+        "next": "https://api.spotify.com/v1/search?query=%E4%BC%8D%E4%BD%B0&type=artist&offset=10&limit=10",
+        "offset": 0,
+        "previous": null,
+        "total": 70
+    }
+}

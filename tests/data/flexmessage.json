@@ -1,0 +1,151 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Black.png",
+        "size": "xs",
+        "align": "center",
+        "flex": 0,
+        "margin": "none",
+        "aspectRatio": "4:3"
+      }
+    ],
+    "paddingAll": "10px"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+                "aspectRatio": "4:3"
+              }
+            ],
+            "flex": 0,
+            "cornerRadius": "5px",
+            "width": "30%",
+            "spacing": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "hello, world",
+                "size": "md",
+                "style": "normal",
+                "weight": "bold",
+                "color": "#1DB954",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "hello, world",
+                "size": "xs",
+                "wrap": true,
+                "color": "#FFFFFF"
+              }
+            ],
+            "spacing": "none",
+            "width": "40%"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "postback",
+                  "label": "Push",
+                  "data": "hello"
+                },
+                "style": "primary",
+                "color": "#1DB954"
+              }
+            ],
+            "width": "25%"
+          }
+        ],
+        "spacing": "md",
+        "cornerRadius": "5px",
+        "backgroundColor": "#191414"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+                "aspectRatio": "4:3"
+              }
+            ],
+            "flex": 0,
+            "cornerRadius": "5px",
+            "width": "30%",
+            "spacing": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "hello, world"
+              },
+              {
+                "type": "text",
+                "text": "hello, world"
+              }
+            ],
+            "spacing": "none",
+            "width": "35%"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": []
+          }
+        ]
+      }
+    ],
+    "flex": 0,
+    "spacing": "xl",
+    "backgroundColor": "#191414"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Powered by Line and Spotify"
+      }
+    ]
+  },
+  "styles": {
+    "header": {
+      "backgroundColor": "#1DB954"
+    }
+  }
+}
