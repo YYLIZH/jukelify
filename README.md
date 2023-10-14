@@ -20,31 +20,34 @@ Jukelify is a service to help you order songs for you and your friends. You can 
    - Use vercel to deploy
 
 ## Usage
-Currently there are 3 commands: `search`, `random`, `test`. You can type `@Jukelify help` to see the details in Line.
+Currently there are 3 commands: `search`, `random`, `test`. You can type `@Jukelify help` to see the details in Line. <br>
 <img height=600 src="docs/help.jpg">
 ### search
 You can search song or artist by `@Jukelify search <artist | song>`
 
 - search for artist
+   
 
-    <video height=600 controls>
-        <source src="docs/search_artist.mp4" type="video/mp4">
-    </video>
+https://github.com/YYLIZH/jukelify/assets/48501277/aa4ad818-e044-4595-bd06-18fc907ecedd
+
+
 
 - search for song
+  
 
-    <video height=600 controls>
-        <source src="docs/search_song.mp4" type="video/mp4">
-    </video>
+https://github.com/YYLIZH/jukelify/assets/48501277/24abf9cc-2850-43b8-9e34-e66d899dc73f
+
+
 
 
 ### random
 Seeking a surprize? You can try with random command by `@Jukelify random <artist>`. Jukelify will randomly pick a song for you.
 - random
   
-    <video height=600 controls>
-        <source src="docs/random.mp4" type="video/mp4">
-    </video>
+
+https://github.com/YYLIZH/jukelify/assets/48501277/4ccaf959-f333-4418-b8a5-96d03dc96d90
+
+
 
 ### test
 Quick test if you can add song into your play queue.
